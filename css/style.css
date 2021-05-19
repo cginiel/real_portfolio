@@ -38,9 +38,8 @@
     font-size: .9rem;
 }
 
-.img-size {
-  /*display: inline;*/
-  max-width: 100%;
+.img-border {
+  border-radius: 10%;
 }
 
 .img-75 {
@@ -49,9 +48,9 @@
   align-self: center;
 }
 
-.img-50 {
+.img-46 {
   /*display: inline;*/
-  max-width: 50%;
+  max-width: 46%;
   align-self: center;
 }
 
