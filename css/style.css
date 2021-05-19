@@ -12,10 +12,37 @@
     white-space: nowrap; /* added line to stop words getting smushed together (as they go onto seperate lines and some screen readers do not understand line feeds as a space */
 }
 
+#projects {
+    padding: 10rem 2rem;
+}
+
 .head {
     padding: 10rem 2rem;
     text-align: center;
 }
+
+.section-color {
+    background: #EBF4FF;
+}
+
+.card-tag {
+    font-size: .7rem;
+    color: #979797;
+}
+
+.card-paragraph-font-size {
+    font-size: .8rem;
+}
+
+.card-link-font-size {
+    font-size: .9rem;
+}
+
+.img-size {
+  /*display: inline;*/
+  max-width: 100%;
+}
+
 
 /*#mainNav {
     padding: 1rem 0rem;
