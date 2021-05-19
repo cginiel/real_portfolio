@@ -52,6 +52,14 @@
   align-self: center;
 }
 
+.img-2 {
+    max-width: 2%;
+}
+
+.footer-index {
+    background: #EBF4FF;
+}
+
 
 /*#mainNav {
     padding: 1rem 0rem;
