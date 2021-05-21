@@ -24,7 +24,10 @@ ul a:hover{
 }
 
 .section-padding {
-    padding: 10rem;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
 }
 
 .card-tag {
