@@ -19,6 +19,14 @@ ul a:hover{
     background: #EBF4FF;
 }
 
+.section-color-grey {
+    background: #FAFAFA;
+}
+
+.section-padding {
+    padding: 10rem;
+}
+
 .card-tag {
     font-size: .7rem;
     color: #979797;
@@ -57,4 +65,8 @@ ul a:hover{
 .footer-text {
     font-size: .7rem;
     color: #979797;
+}
+
+.my-text-muted {
+    color: #888888;
 }
