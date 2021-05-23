@@ -47,6 +47,11 @@ ul a:hover{
   border-radius: 10%;
 }
 
+.img-size {
+/*    width: 100%;*/
+    height: auto;
+}
+
 .img-75 {
   max-width: 75%;
   align-self: center;
