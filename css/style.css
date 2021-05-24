@@ -15,21 +15,6 @@ ul a:hover{
   text-align: center;
 }
 
-.section-color {
-  background: #EBF4FF;
-}
-
-.section-color-grey {
-  background: #FAFAFA;
-}
-
-.section-padding {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  padding-left: 4rem;
-  padding-right: 4rem;
-}
-
 .card-tag {
   font-size: .7rem;
   color: #979797;
@@ -81,4 +66,24 @@ ul a:hover{
 
 .my-text-muted {
   color: #888888;
+}
+
+.muted-paragraph {
+  color: #979797;
+  font-size: .8rem;
+}
+
+.section-color {
+  background: #EBF4FF;
+}
+
+.section-color-grey {
+  background: #FAFAFA;
+}
+
+.section-padding {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
 }
