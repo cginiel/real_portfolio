@@ -87,3 +87,10 @@ ul a:hover{
   padding-left: 4rem;
   padding-right: 4rem;
 }
+
+.end-of-section-padding {
+  padding-top: 4rem;
+  padding-bottom: 10rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
