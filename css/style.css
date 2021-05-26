@@ -15,6 +15,12 @@ ul a:hover{
   text-align: center;
 }
 
+.mdos-head {
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+  text-align: center;
+}
+
 .card-tag {
   font-size: .7rem;
   color: #979797;
